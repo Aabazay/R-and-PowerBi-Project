@@ -9,3 +9,4 @@ Source: [InformationIsBeautiful.net](https://user-images.githubusercontent.com/1
 
 -------------------------------------
 
+As my first task, I was given a data set about Performance of Hollywood Movies. I have uploaded that data set into PositCloud where I have analysed and cleansed it. 
