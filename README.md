@@ -9,4 +9,6 @@ Source: [InformationIsBeautiful.net](https://user-images.githubusercontent.com/1
 
 -------------------------------------
 
-As my first task, I was given a data set about Performance of Hollywood Movies. I have uploaded that data set into PositCloud where I have analysed and cleansed it. 
+As my first task, I was given a data set about Performance of Hollywood Movies. I have uploaded that data set into PositCloud where I have analysed and cleansed it. Please see cleansed R Script below.
+
+1[alt text](https://github.com/Aabazay/R-and-PowerBi-Project/blob/9f7003f3dd27da8501a3410c1ecf7cd21748ce44/R%20script.png)
