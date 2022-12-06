@@ -1,3 +1,2 @@
 # R-and-PowerBi-Project
-1. Analyze and clean data set in R
-2.Create dashboard in PowerBi from clean data set
+![alt text](https://github.com/Aabazay/R-and-PowerBi-Project/blob/2ceac94b99bef906c968306584d98bfa71985115/Dashboard.png)
