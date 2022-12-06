@@ -4,6 +4,7 @@
 -------------------------------------
 Aim: To analyze the performance of Hollywood movies 
 
-Data: Title, genre, studio, profitability and ratings for movies released 2007-2012. Source: InformationIsBeautiful.net ![image](https://user-images.githubusercontent.com/119430189/205911960-6e7f4f4a-c1ac-4f36-842b-3c4957df68b6.png)
+Data: Title, genre, studio, profitability and ratings for movies released 2007-2012.
+Source:[InformationIsBeautiful.net](https://user-images.githubusercontent.com/119430189/205911960-6e7f4f4a-c1ac-4f36-842b-3c4957df68b6.png)
 
 
