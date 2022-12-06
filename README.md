@@ -10,7 +10,7 @@ Source: [InformationIsBeautiful.net](https://user-images.githubusercontent.com/1
 
 -------------------------------------
 
-As my first task, I was given a data set about Performance of Hollywood Movies. I have uploaded that data set into PositCloud where I have analysed and cleansed it. Please see cleansed R Script below. During my annalysis, I've experienced that the original code to missing values didn't work I have then explored and found a code that did work.  "#df <- df[rowSums(is.na(df)) == 0, ]"
+As my first task, I was given a data set about Performance of Hollywood Movies. I have uploaded that data set into PositCloud where I have analysed and cleansed it. Please see cleansed R Script below. During my annalysis, I've experienced that the original code to missing values didn't work I have then explored and found a code that did work.  "df <- df[rowSums(is.na(df)) == 0, ]"
 
 ![alt text](https://github.com/Aabazay/R-and-PowerBi-Project/blob/9f7003f3dd27da8501a3410c1ecf7cd21748ce44/R%20script.png)
 
